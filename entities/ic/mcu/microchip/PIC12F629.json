@@ -9,7 +9,7 @@
     },
     "manufacturer": "Microchip",
     "name": "PIC12F629",
-    "prefix": "IC",
+    "prefix": "U",
     "tags": [
         "ic",
         "mcu"
