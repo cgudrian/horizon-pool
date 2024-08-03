@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "d2cc823f-7c92-4542-b656-7658273509af": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "c2b24f7a-2039-4725-a7d4-b13ba1937130"
+        }
+    },
+    "manufacturer": "Microchip",
+    "name": "PIC12F629",
+    "prefix": "IC",
+    "tags": [
+        "ic",
+        "mcu"
+    ],
+    "type": "entity",
+    "uuid": "2e23325b-25b1-470c-882c-1c28da28ca48"
+}

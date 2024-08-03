@@ -1,0 +1,68 @@
+{
+    "MPN": [
+        false,
+        "PIC12F629-I/SN"
+    ],
+    "datasheet": [
+        false,
+        "https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/DataSheets/41190G.pdf"
+    ],
+    "description": [
+        false,
+        "8-Pin FLASH-Based 8-Bit CMOS Microcontrollers"
+    ],
+    "entity": "2e23325b-25b1-470c-882c-1c28da28ca48",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Microchip"
+    ],
+    "model": "b99785a3-c0da-4658-969d-6287cec3be05",
+    "package": "0932e22e-0cf7-46dc-b09c-4cc761a67608",
+    "pad_map": {
+        "17341892-a120-44e2-97ea-6e4f8e3d7da5": {
+            "gate": "d2cc823f-7c92-4542-b656-7658273509af",
+            "pin": "f0f73e76-78d6-4f6e-ac35-fef7e5cb3899"
+        },
+        "29f18ab8-6cea-44fc-9bf5-4fb888f5245b": {
+            "gate": "d2cc823f-7c92-4542-b656-7658273509af",
+            "pin": "2282256d-40a0-4131-8c1b-df141bc0a812"
+        },
+        "3d725e25-0d60-46cb-a21f-82462d3ce156": {
+            "gate": "d2cc823f-7c92-4542-b656-7658273509af",
+            "pin": "2f3c18e8-c9a9-43a3-84a9-91451b657727"
+        },
+        "51d7c05f-acae-46d5-9c26-2ea9d17bf7a8": {
+            "gate": "d2cc823f-7c92-4542-b656-7658273509af",
+            "pin": "4a020d15-15bf-438c-8756-af8e98935713"
+        },
+        "68b17b6f-ab52-4c2b-9389-c36d3c06eeef": {
+            "gate": "d2cc823f-7c92-4542-b656-7658273509af",
+            "pin": "10f870d8-1879-4f0a-8cf4-b16e3bfce65e"
+        },
+        "6f82c7c4-9578-4cb0-a92c-8b09534d5dc9": {
+            "gate": "d2cc823f-7c92-4542-b656-7658273509af",
+            "pin": "8075e380-62c3-46ff-991f-667bd024f398"
+        },
+        "82d773fb-4473-4bd9-a879-a6ca2756055c": {
+            "gate": "d2cc823f-7c92-4542-b656-7658273509af",
+            "pin": "44fed494-b111-482a-a05c-e684795fd053"
+        },
+        "b9ad4acf-f78d-438d-8b7b-e83ee0f9cc19": {
+            "gate": "d2cc823f-7c92-4542-b656-7658273509af",
+            "pin": "a5642d5e-d9cd-473e-97b0-ef84e8cb60b3"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "mcu"
+    ],
+    "type": "part",
+    "uuid": "4f1528d9-51cd-4db5-9d3e-bfd024e96577",
+    "value": [
+        false,
+        "12F629"
+    ]
+}
