@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "5e5c93e1-3f31-4ecc-919b-fee2a3be30aa": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "bc0204a9-b698-42e1-b8e7-6f758d0cb00b"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "UA78L05ACD",
+    "prefix": "IC",
+    "tags": [
+        "ic",
+        "regulator"
+    ],
+    "type": "entity",
+    "uuid": "43fa16df-7471-4792-9348-6e5ff9d89f3d"
+}

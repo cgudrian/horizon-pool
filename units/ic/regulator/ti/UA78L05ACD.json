@@ -1,0 +1,44 @@
+{
+    "manufacturer": "Texas Instruments",
+    "name": "UA78L05ACD",
+    "pins": {
+        "0b319cd5-e2fc-4d85-a1a8-c193c7de1af3": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND1",
+            "swap_group": 0
+        },
+        "2f233158-06db-483f-ba4c-018b7b12e747": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND4",
+            "swap_group": 0
+        },
+        "7dbcbc6c-8892-4150-8fed-002d40ae0e68": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VI",
+            "swap_group": 0
+        },
+        "98eb3b90-4d5c-4cad-8a22-3721b03f767c": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND2",
+            "swap_group": 0
+        },
+        "ad915465-3e2f-4688-bc21-c8422454f143": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND3",
+            "swap_group": 0
+        },
+        "adb6af11-6130-45f3-8bf4-546f076fabc9": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VO",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "bc0204a9-b698-42e1-b8e7-6f758d0cb00b"
+}

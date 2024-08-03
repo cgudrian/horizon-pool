@@ -1,0 +1,60 @@
+{
+    "MPN": [
+        false,
+        "UA78L05ACD"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/ds/symlink/ua78l.pdf?ts=1722586005545&ref_url=https%253A%252F%252Fwww.mouser.pl%252F"
+    ],
+    "description": [
+        false,
+        "5V"
+    ],
+    "entity": "43fa16df-7471-4792-9348-6e5ff9d89f3d",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "b99785a3-c0da-4658-969d-6287cec3be05",
+    "package": "0932e22e-0cf7-46dc-b09c-4cc761a67608",
+    "pad_map": {
+        "17341892-a120-44e2-97ea-6e4f8e3d7da5": {
+            "gate": "5e5c93e1-3f31-4ecc-919b-fee2a3be30aa",
+            "pin": "0b319cd5-e2fc-4d85-a1a8-c193c7de1af3"
+        },
+        "3d725e25-0d60-46cb-a21f-82462d3ce156": {
+            "gate": "5e5c93e1-3f31-4ecc-919b-fee2a3be30aa",
+            "pin": "2f233158-06db-483f-ba4c-018b7b12e747"
+        },
+        "51d7c05f-acae-46d5-9c26-2ea9d17bf7a8": {
+            "gate": "5e5c93e1-3f31-4ecc-919b-fee2a3be30aa",
+            "pin": "7dbcbc6c-8892-4150-8fed-002d40ae0e68"
+        },
+        "68b17b6f-ab52-4c2b-9389-c36d3c06eeef": {
+            "gate": "5e5c93e1-3f31-4ecc-919b-fee2a3be30aa",
+            "pin": "98eb3b90-4d5c-4cad-8a22-3721b03f767c"
+        },
+        "82d773fb-4473-4bd9-a879-a6ca2756055c": {
+            "gate": "5e5c93e1-3f31-4ecc-919b-fee2a3be30aa",
+            "pin": "ad915465-3e2f-4688-bc21-c8422454f143"
+        },
+        "b9ad4acf-f78d-438d-8b7b-e83ee0f9cc19": {
+            "gate": "5e5c93e1-3f31-4ecc-919b-fee2a3be30aa",
+            "pin": "adb6af11-6130-45f3-8bf4-546f076fabc9"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "regulator"
+    ],
+    "type": "part",
+    "uuid": "e3317881-b043-4a6f-b0b1-733d13c63ac3",
+    "value": [
+        false,
+        ""
+    ]
+}
