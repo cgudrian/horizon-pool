@@ -1,6 +1,6 @@
 {
     "arcs": {},
-    "default_model": "00000000-0000-0000-0000-000000000000",
+    "default_model": "7152a7ee-6ae4-45ab-ab82-289beb3a2d38",
     "dimensions": {},
     "grid_settings": {
         "current": {
@@ -60,7 +60,35 @@
         }
     },
     "manufacturer": "",
-    "models": {},
+    "models": {
+        "7152a7ee-6ae4-45ab-ab82-289beb3a2d38": {
+            "filename": "3d_models/passive/capacitor/CP_EIA-3528-21_Kemet-B.step",
+            "pitch": 0,
+            "roll": 0,
+            "x": 0,
+            "y": 0,
+            "yaw": 0,
+            "z": 0
+        },
+        "73492acc-59d4-4c23-93aa-c18d6447ed58": {
+            "filename": "3d_models/passive/capacitor/CP_EIA-3528-15_AVX-H.step",
+            "pitch": 0,
+            "roll": 0,
+            "x": 0,
+            "y": 0,
+            "yaw": 0,
+            "z": 0
+        },
+        "dcca0bbd-afb5-4d12-a2bb-4f1a49977430": {
+            "filename": "3d_models/passive/capacitor/CP_EIA-3528-12_Kemet-T.step",
+            "pitch": 0,
+            "roll": 0,
+            "x": 0,
+            "y": -100000,
+            "yaw": 0,
+            "z": 0
+        }
+    },
     "name": "C1411 (polarized)",
     "pads": {
         "17bc3aed-876b-4c54-b66b-baf5e1b16061": {

@@ -1,0 +1,51 @@
+{
+    "MPN": [
+        false,
+        "LSG 1301"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Momentary Action Switch"
+    ],
+    "entity": "09952b1f-1221-48ad-896c-4481914e3af2",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "8eea67fa-4c4f-47e7-b616-0fb8e6783d12",
+    "pad_map": {
+        "60426c36-3d22-4b5b-9737-db19a8480d45": {
+            "gate": "1926ff13-c95b-49f9-937c-35ac08ba9efb",
+            "pin": "97955848-10f4-4667-b838-46f6bb8fe085"
+        },
+        "8100362d-4c4b-41bc-9458-66b821325527": {
+            "gate": "1926ff13-c95b-49f9-937c-35ac08ba9efb",
+            "pin": "97955848-10f4-4667-b838-46f6bb8fe085"
+        },
+        "8cdb0067-d0cd-41f7-b90c-908a07b115d4": {
+            "gate": "1926ff13-c95b-49f9-937c-35ac08ba9efb",
+            "pin": "831b482b-82af-40ba-8cc0-5e272f25cc2c"
+        },
+        "f667e87b-b92b-42d7-9dad-5d5eecac24fe": {
+            "gate": "1926ff13-c95b-49f9-937c-35ac08ba9efb",
+            "pin": "831b482b-82af-40ba-8cc0-5e272f25cc2c"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "switch"
+    ],
+    "type": "part",
+    "uuid": "c4c7f442-5b88-4d15-8047-865c9ccc3b1d",
+    "value": [
+        false,
+        ""
+    ]
+}

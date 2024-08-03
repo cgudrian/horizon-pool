@@ -1,6 +1,6 @@
 {
     "arcs": {},
-    "default_model": "00000000-0000-0000-0000-000000000000",
+    "default_model": "82b4d04a-7093-418c-856f-f45a67c49825",
     "dimensions": {},
     "grid_settings": {
         "current": {
@@ -60,7 +60,62 @@
         }
     },
     "manufacturer": "",
-    "models": {},
+    "models": {
+        "1778a427-6036-4fe8-b93a-4ec3d4eb6e0d": {
+            "filename": "3d_models/passive/capacitor/CP_EIA-7343-30_AVX-N.step",
+            "pitch": 0,
+            "roll": 0,
+            "x": 0,
+            "y": 0,
+            "yaw": 0,
+            "z": 0
+        },
+        "82b4d04a-7093-418c-856f-f45a67c49825": {
+            "filename": "3d_models/passive/capacitor/CP_EIA-7343-15_Kemet-W.step",
+            "pitch": 0,
+            "roll": 0,
+            "x": 0,
+            "y": 0,
+            "yaw": 0,
+            "z": 0
+        },
+        "8aa5d531-cd8b-4e62-afeb-6976e3e88a43": {
+            "filename": "3d_models/passive/capacitor/CP_EIA-7343-31_Kemet-D.step",
+            "pitch": 0,
+            "roll": 0,
+            "x": 0,
+            "y": 0,
+            "yaw": 0,
+            "z": 0
+        },
+        "cbf40b52-bdee-4d92-b061-c0a63d76ca5e": {
+            "filename": "3d_models/passive/capacitor/CP_EIA-7343-40_Kemet-Y.step",
+            "pitch": 0,
+            "roll": 0,
+            "x": 0,
+            "y": 0,
+            "yaw": 0,
+            "z": 0
+        },
+        "dd37be6b-c578-45f1-a2ea-cd5eddab600a": {
+            "filename": "3d_models/passive/capacitor/CP_EIA-7343-43_Kemet-X.step",
+            "pitch": 0,
+            "roll": 0,
+            "x": 0,
+            "y": 0,
+            "yaw": 0,
+            "z": 0
+        },
+        "face6335-e143-4bec-b51d-ba031764a222": {
+            "filename": "3d_models/passive/capacitor/CP_EIA-7343-20_Kemet-V.step",
+            "pitch": 0,
+            "roll": 0,
+            "x": -600000,
+            "y": 0,
+            "yaw": 0,
+            "z": 0
+        }
+    },
     "name": "C2917 (polarized)",
     "pads": {
         "11460c99-2488-443e-aaa8-32d4d2b17331": {
