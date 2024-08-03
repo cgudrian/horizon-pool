@@ -22,28 +22,28 @@
     "package": "0932e22e-0cf7-46dc-b09c-4cc761a67608",
     "pad_map": {
         "17341892-a120-44e2-97ea-6e4f8e3d7da5": {
-            "gate": "5e5c93e1-3f31-4ecc-919b-fee2a3be30aa",
-            "pin": "0b319cd5-e2fc-4d85-a1a8-c193c7de1af3"
+            "gate": "b7251464-797f-4651-89c3-501e7424efef",
+            "pin": "20f0495c-5e6e-4975-b440-1399ca09d3c3"
         },
         "3d725e25-0d60-46cb-a21f-82462d3ce156": {
-            "gate": "5e5c93e1-3f31-4ecc-919b-fee2a3be30aa",
-            "pin": "2f233158-06db-483f-ba4c-018b7b12e747"
+            "gate": "b7251464-797f-4651-89c3-501e7424efef",
+            "pin": "20f0495c-5e6e-4975-b440-1399ca09d3c3"
         },
         "51d7c05f-acae-46d5-9c26-2ea9d17bf7a8": {
-            "gate": "5e5c93e1-3f31-4ecc-919b-fee2a3be30aa",
-            "pin": "7dbcbc6c-8892-4150-8fed-002d40ae0e68"
+            "gate": "b7251464-797f-4651-89c3-501e7424efef",
+            "pin": "559d5e91-2169-486b-9ece-8db9867957dd"
         },
         "68b17b6f-ab52-4c2b-9389-c36d3c06eeef": {
-            "gate": "5e5c93e1-3f31-4ecc-919b-fee2a3be30aa",
-            "pin": "98eb3b90-4d5c-4cad-8a22-3721b03f767c"
+            "gate": "b7251464-797f-4651-89c3-501e7424efef",
+            "pin": "20f0495c-5e6e-4975-b440-1399ca09d3c3"
         },
         "82d773fb-4473-4bd9-a879-a6ca2756055c": {
-            "gate": "5e5c93e1-3f31-4ecc-919b-fee2a3be30aa",
-            "pin": "ad915465-3e2f-4688-bc21-c8422454f143"
+            "gate": "b7251464-797f-4651-89c3-501e7424efef",
+            "pin": "20f0495c-5e6e-4975-b440-1399ca09d3c3"
         },
         "b9ad4acf-f78d-438d-8b7b-e83ee0f9cc19": {
-            "gate": "5e5c93e1-3f31-4ecc-919b-fee2a3be30aa",
-            "pin": "adb6af11-6130-45f3-8bf4-546f076fabc9"
+            "gate": "b7251464-797f-4651-89c3-501e7424efef",
+            "pin": "304699c2-7433-4b03-ad2c-c8df631dd06f"
         }
     },
     "parametric": {},

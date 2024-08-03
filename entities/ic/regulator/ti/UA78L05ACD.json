@@ -1,10 +1,10 @@
 {
     "gates": {
-        "5e5c93e1-3f31-4ecc-919b-fee2a3be30aa": {
+        "b7251464-797f-4651-89c3-501e7424efef": {
             "name": "Main",
             "suffix": "",
             "swap_group": 0,
-            "unit": "bc0204a9-b698-42e1-b8e7-6f758d0cb00b"
+            "unit": "d6eb9985-e536-4a5d-b7fc-816c4a22dc3b"
         }
     },
     "manufacturer": "Texas Instruments",
