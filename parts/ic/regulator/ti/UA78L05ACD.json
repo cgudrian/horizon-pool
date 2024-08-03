@@ -11,7 +11,7 @@
         false,
         "5V"
     ],
-    "entity": "43fa16df-7471-4792-9348-6e5ff9d89f3d",
+    "entity": "1d0055e8-b654-4bb9-b3e2-5ad87079ecca",
     "inherit_model": true,
     "inherit_tags": false,
     "manufacturer": [
@@ -22,27 +22,27 @@
     "package": "0932e22e-0cf7-46dc-b09c-4cc761a67608",
     "pad_map": {
         "17341892-a120-44e2-97ea-6e4f8e3d7da5": {
-            "gate": "b7251464-797f-4651-89c3-501e7424efef",
+            "gate": "8b4c20d8-37fd-40a5-8239-db8803c0baa0",
             "pin": "20f0495c-5e6e-4975-b440-1399ca09d3c3"
         },
         "3d725e25-0d60-46cb-a21f-82462d3ce156": {
-            "gate": "b7251464-797f-4651-89c3-501e7424efef",
+            "gate": "8b4c20d8-37fd-40a5-8239-db8803c0baa0",
             "pin": "20f0495c-5e6e-4975-b440-1399ca09d3c3"
         },
         "51d7c05f-acae-46d5-9c26-2ea9d17bf7a8": {
-            "gate": "b7251464-797f-4651-89c3-501e7424efef",
+            "gate": "8b4c20d8-37fd-40a5-8239-db8803c0baa0",
             "pin": "559d5e91-2169-486b-9ece-8db9867957dd"
         },
         "68b17b6f-ab52-4c2b-9389-c36d3c06eeef": {
-            "gate": "b7251464-797f-4651-89c3-501e7424efef",
+            "gate": "8b4c20d8-37fd-40a5-8239-db8803c0baa0",
             "pin": "20f0495c-5e6e-4975-b440-1399ca09d3c3"
         },
         "82d773fb-4473-4bd9-a879-a6ca2756055c": {
-            "gate": "b7251464-797f-4651-89c3-501e7424efef",
+            "gate": "8b4c20d8-37fd-40a5-8239-db8803c0baa0",
             "pin": "20f0495c-5e6e-4975-b440-1399ca09d3c3"
         },
         "b9ad4acf-f78d-438d-8b7b-e83ee0f9cc19": {
-            "gate": "b7251464-797f-4651-89c3-501e7424efef",
+            "gate": "8b4c20d8-37fd-40a5-8239-db8803c0baa0",
             "pin": "304699c2-7433-4b03-ad2c-c8df631dd06f"
         }
     },
