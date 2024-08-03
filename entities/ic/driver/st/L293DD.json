@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "35d4ed0f-f30c-47b1-a8f5-9ec3da9c1527": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "f9049cf7-7d97-441a-ad05-21d3bfae21af"
+        }
+    },
+    "manufacturer": "ST",
+    "name": "L 293 DD",
+    "prefix": "U",
+    "tags": [
+        "driver"
+    ],
+    "type": "entity",
+    "uuid": "79494637-a270-4271-88e5-388ac1e7051c"
+}

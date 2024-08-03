@@ -4,26 +4,26 @@
     "junctions": {
         "51725a8d-f76c-4ce1-9017-b51339563575": {
             "position": [
-                8750000,
-                -10000000
+                6250000,
+                11250000
             ]
         },
         "b362bca0-bb32-4f09-a426-b5bcbd5a3062": {
             "position": [
-                -8750000,
-                10000000
+                -6250000,
+                -11250000
             ]
         },
         "ca3d3165-eeef-4104-b591-94af0de77f68": {
             "position": [
-                8750000,
-                10000000
+                6250000,
+                -11250000
             ]
         },
         "d3541fc4-bfb1-4f40-8a16-de9212c083f4": {
             "position": [
-                -8750000,
-                -10000000
+                -6250000,
+                11250000
             ]
         }
     },
@@ -68,8 +68,8 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                11250000,
-                -3750000
+                8750000,
+                3750000
             ]
         },
         "2282256d-40a0-4131-8c1b-df141bc0a812": {
@@ -85,8 +85,8 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                11250000,
-                -1250000
+                8750000,
+                1250000
             ]
         },
         "2f3c18e8-c9a9-43a3-84a9-91451b657727": {
@@ -102,8 +102,8 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                11250000,
-                6250000
+                8750000,
+                -6250000
             ]
         },
         "44fed494-b111-482a-a05c-e684795fd053": {
@@ -119,8 +119,8 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                11250000,
-                3750000
+                8750000,
+                -3750000
             ]
         },
         "4a020d15-15bf-438c-8756-af8e98935713": {
@@ -136,7 +136,7 @@
             "orientation": "left",
             "pad_visible": true,
             "position": [
-                -11250000,
+                -8750000,
                 8750000
             ]
         },
@@ -153,8 +153,8 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                11250000,
-                1250000
+                8750000,
+                -1250000
             ]
         },
         "a5642d5e-d9cd-473e-97b0-ef84e8cb60b3": {
@@ -170,7 +170,7 @@
             "orientation": "left",
             "pad_visible": true,
             "position": [
-                -11250000,
+                -8750000,
                 -8750000
             ]
         },
@@ -187,15 +187,15 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                11250000,
-                -6250000
+                8750000,
+                6250000
             ]
         }
     },
     "polygons": {},
     "text_placements": {},
     "texts": {
-        "19637f70-4e62-49f1-8b66-486871d4f817": {
+        "2627bc34-2fb8-41cd-91c5-51a872ce68d5": {
             "font": "simplex",
             "from_smash": false,
             "layer": 0,
@@ -204,15 +204,15 @@
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    -8750000,
-                    11250000
+                    -6250000,
+                    12500000
                 ]
             },
             "size": 1500000,
             "text": "$REFDES",
             "width": 0
         },
-        "af71c81c-00cf-4b29-ba98-d3afb2557a15": {
+        "cb98474f-5109-4ecd-97a9-01509235902f": {
             "font": "simplex",
             "from_smash": false,
             "layer": 0,
@@ -221,8 +221,8 @@
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    -8750000,
-                    -11250000
+                    -6250000,
+                    -12500000
                 ]
             },
             "size": 1500000,

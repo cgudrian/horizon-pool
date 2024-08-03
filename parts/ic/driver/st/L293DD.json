@@ -1,0 +1,113 @@
+{
+    "MPN": [
+        false,
+        "L 293 DD"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Push-pull Four Channel Driver with Diodes"
+    ],
+    "entity": "79494637-a270-4271-88e5-388ac1e7051c",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "ST"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "44933493-26c1-43a4-9810-e54eb12e4ff4",
+    "pad_map": {
+        "14842113-da1e-4a6d-bcf8-d3956a0d9022": {
+            "gate": "35d4ed0f-f30c-47b1-a8f5-9ec3da9c1527",
+            "pin": "dfa19c9a-6a44-4099-85ef-9a83628527b7"
+        },
+        "20e4c40b-c71b-4193-b49b-20cdb5ad71a4": {
+            "gate": "35d4ed0f-f30c-47b1-a8f5-9ec3da9c1527",
+            "pin": "04b09165-ebc5-4dcd-a961-812b7f0a7cec"
+        },
+        "222e5146-d4a3-4ff2-82b4-69db5bc03899": {
+            "gate": "35d4ed0f-f30c-47b1-a8f5-9ec3da9c1527",
+            "pin": "ad85b156-8251-4bf7-925e-a20443afe93a"
+        },
+        "3921b523-ef46-4ceb-93da-8d928f163ef1": {
+            "gate": "35d4ed0f-f30c-47b1-a8f5-9ec3da9c1527",
+            "pin": "ad01f278-4468-4a3a-bbcf-6e4b67805a59"
+        },
+        "4c77cfc4-c631-4a13-ba11-02944bd820d7": {
+            "gate": "35d4ed0f-f30c-47b1-a8f5-9ec3da9c1527",
+            "pin": "32d4fc4c-18ad-4664-ab9a-f11d42396ea7"
+        },
+        "62cddf8d-517d-44b3-8d1d-4015d0b1f9d9": {
+            "gate": "35d4ed0f-f30c-47b1-a8f5-9ec3da9c1527",
+            "pin": "86feda03-ec4b-45c2-8f55-ea98980a9a2a"
+        },
+        "644aa015-5660-4bdc-9d6a-fc5c465c3d56": {
+            "gate": "35d4ed0f-f30c-47b1-a8f5-9ec3da9c1527",
+            "pin": "86feda03-ec4b-45c2-8f55-ea98980a9a2a"
+        },
+        "68760750-79d7-48fa-a8f0-731b63a0ea68": {
+            "gate": "35d4ed0f-f30c-47b1-a8f5-9ec3da9c1527",
+            "pin": "86feda03-ec4b-45c2-8f55-ea98980a9a2a"
+        },
+        "8d8bcf68-f2b8-4aa6-aa36-e54eb813642e": {
+            "gate": "35d4ed0f-f30c-47b1-a8f5-9ec3da9c1527",
+            "pin": "86feda03-ec4b-45c2-8f55-ea98980a9a2a"
+        },
+        "8f32e783-3454-4aa4-94da-4926746bf203": {
+            "gate": "35d4ed0f-f30c-47b1-a8f5-9ec3da9c1527",
+            "pin": "125bac90-196d-430e-bb20-ad1b5c21353e"
+        },
+        "910e8fbf-ba01-4ac6-835e-f96aac37ebc5": {
+            "gate": "35d4ed0f-f30c-47b1-a8f5-9ec3da9c1527",
+            "pin": "86feda03-ec4b-45c2-8f55-ea98980a9a2a"
+        },
+        "9223184b-eed8-472d-a6d7-ce55d3332817": {
+            "gate": "35d4ed0f-f30c-47b1-a8f5-9ec3da9c1527",
+            "pin": "86feda03-ec4b-45c2-8f55-ea98980a9a2a"
+        },
+        "97a468ef-84ab-467d-b331-7a837d05caf3": {
+            "gate": "35d4ed0f-f30c-47b1-a8f5-9ec3da9c1527",
+            "pin": "86feda03-ec4b-45c2-8f55-ea98980a9a2a"
+        },
+        "a1bcf209-6072-44ce-ab8a-cbb4efa1ea24": {
+            "gate": "35d4ed0f-f30c-47b1-a8f5-9ec3da9c1527",
+            "pin": "a4bfe93b-96e1-46bf-a82a-97a2696e6992"
+        },
+        "c2298e9f-409f-443e-97f4-e98ed05c22a7": {
+            "gate": "35d4ed0f-f30c-47b1-a8f5-9ec3da9c1527",
+            "pin": "86feda03-ec4b-45c2-8f55-ea98980a9a2a"
+        },
+        "ceb5b834-7ef6-4e80-93ea-fde3d44bba78": {
+            "gate": "35d4ed0f-f30c-47b1-a8f5-9ec3da9c1527",
+            "pin": "242c1371-b81d-4807-b39c-d4d449410c87"
+        },
+        "ceeeecfa-a53a-44f6-b0d9-02a5ab1b7a02": {
+            "gate": "35d4ed0f-f30c-47b1-a8f5-9ec3da9c1527",
+            "pin": "7c3a0da4-92c1-4cd9-9f27-66462be32643"
+        },
+        "d42869e3-14c3-48ff-947f-e3b55c982227": {
+            "gate": "35d4ed0f-f30c-47b1-a8f5-9ec3da9c1527",
+            "pin": "0c891ac5-842c-410b-85da-d3ca0ca10215"
+        },
+        "e7710d32-8b08-413f-b820-471da43df9d6": {
+            "gate": "35d4ed0f-f30c-47b1-a8f5-9ec3da9c1527",
+            "pin": "1695c0b9-e2b2-4501-8375-eb8bc4981149"
+        },
+        "f7f085d6-8d08-4717-afd7-70aa0bca0821": {
+            "gate": "35d4ed0f-f30c-47b1-a8f5-9ec3da9c1527",
+            "pin": "d645dcc3-0434-425b-be7b-159ceb12796c"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "01f8efbf-761b-42e5-bc3f-192c2602e2e3",
+    "value": [
+        false,
+        "L293DD"
+    ]
+}

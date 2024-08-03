@@ -1,0 +1,86 @@
+{
+    "manufacturer": "ST",
+    "name": "L 293 DD",
+    "pins": {
+        "04b09165-ebc5-4dcd-a961-812b7f0a7cec": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "OUT4",
+            "swap_group": 0
+        },
+        "0c891ac5-842c-410b-85da-d3ca0ca10215": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "OUT3",
+            "swap_group": 0
+        },
+        "125bac90-196d-430e-bb20-ad1b5c21353e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "IN2",
+            "swap_group": 0
+        },
+        "1695c0b9-e2b2-4501-8375-eb8bc4981149": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "EN3_4",
+            "swap_group": 0
+        },
+        "242c1371-b81d-4807-b39c-d4d449410c87": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "OUT2",
+            "swap_group": 0
+        },
+        "32d4fc4c-18ad-4664-ab9a-f11d42396ea7": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "IN1",
+            "swap_group": 0
+        },
+        "7c3a0da4-92c1-4cd9-9f27-66462be32643": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "IN3",
+            "swap_group": 0
+        },
+        "86feda03-ec4b-45c2-8f55-ea98980a9a2a": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "a4bfe93b-96e1-46bf-a82a-97a2696e6992": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "EN1_2",
+            "swap_group": 0
+        },
+        "ad01f278-4468-4a3a-bbcf-6e4b67805a59": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "Vs",
+            "swap_group": 0
+        },
+        "ad85b156-8251-4bf7-925e-a20443afe93a": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "OUT1",
+            "swap_group": 0
+        },
+        "d645dcc3-0434-425b-be7b-159ceb12796c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "IN4",
+            "swap_group": 0
+        },
+        "dfa19c9a-6a44-4099-85ef-9a83628527b7": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "Vss",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "f9049cf7-7d97-441a-ad05-21d3bfae21af"
+}

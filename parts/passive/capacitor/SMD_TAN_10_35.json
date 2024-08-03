@@ -1,0 +1,52 @@
+{
+    "MPN": [
+        false,
+        "SMD TAN.10/35"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "SMD-Tantal-Kondensator, 10µF/35V"
+    ],
+    "entity": "b0c2b8f8-aecf-4873-9458-c06eee2f7a00",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "81e1f5e8-95aa-4609-8486-764805397a31",
+    "pad_map": {
+        "11460c99-2488-443e-aaa8-32d4d2b17331": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "1e7cd34f-86db-4b34-9e0b-c276756301ab"
+        },
+        "1e78c773-eca5-4a80-8b9e-be66dce21a72": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "bb8460b5-34e6-41b0-9a9f-10eed3a3d8d6"
+        }
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "20",
+        "type": "Electrolytic",
+        "value": "1e-05",
+        "wvdc": "35"
+    },
+    "tags": [
+        "capacitor",
+        "passive",
+        "polarized",
+        "tantal"
+    ],
+    "type": "part",
+    "uuid": "9c282046-b620-4309-8a75-2ce751ffc518",
+    "value": [
+        false,
+        "10µ/35V"
+    ]
+}
