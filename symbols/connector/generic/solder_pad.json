@@ -1,0 +1,150 @@
+{
+    "arcs": {
+        "550e7213-2986-4a13-82fc-b21efb111361": {
+            "center": "1d5f2ab0-1cb6-44e2-a5ec-6d87f35f17ee",
+            "from": "54db3f5e-0aee-48ce-bdd5-38cbf177e395",
+            "layer": 0,
+            "to": "53f10e56-bd02-4b24-88e9-671f9b048369",
+            "width": 0
+        },
+        "9ef9a433-028e-45d9-b781-ff54c39aae09": {
+            "center": "1d5f2ab0-1cb6-44e2-a5ec-6d87f35f17ee",
+            "from": "53f10e56-bd02-4b24-88e9-671f9b048369",
+            "layer": 0,
+            "to": "54db3f5e-0aee-48ce-bdd5-38cbf177e395",
+            "width": 0
+        }
+    },
+    "can_expand": false,
+    "junctions": {
+        "0f70e700-9807-423c-8032-23176c8da77e": {
+            "position": [
+                -1767766,
+                0
+            ]
+        },
+        "1d5f2ab0-1cb6-44e2-a5ec-6d87f35f17ee": {
+            "position": [
+                0,
+                0
+            ]
+        },
+        "53f10e56-bd02-4b24-88e9-671f9b048369": {
+            "position": [
+                883883,
+                -883883
+            ]
+        },
+        "54db3f5e-0aee-48ce-bdd5-38cbf177e395": {
+            "position": [
+                -883883,
+                883883
+            ]
+        },
+        "8a4a7de5-4f98-4b04-900a-658b6987a2d5": {
+            "position": [
+                0,
+                -1767766
+            ]
+        },
+        "971ce83e-cfe7-4e04-8fe9-d332923515d7": {
+            "position": [
+                1767766,
+                0
+            ]
+        },
+        "fe1403d9-21a0-4347-a903-b00c2129ec6d": {
+            "position": [
+                0,
+                1767766
+            ]
+        }
+    },
+    "lines": {
+        "3e28e66b-c700-463c-85c5-b6cf2b7b0e19": {
+            "from": "fe1403d9-21a0-4347-a903-b00c2129ec6d",
+            "layer": 0,
+            "to": "971ce83e-cfe7-4e04-8fe9-d332923515d7",
+            "width": 0
+        },
+        "59a234a1-7324-446e-bb78-6aaea9c563a1": {
+            "from": "0f70e700-9807-423c-8032-23176c8da77e",
+            "layer": 0,
+            "to": "fe1403d9-21a0-4347-a903-b00c2129ec6d",
+            "width": 0
+        },
+        "a293733f-0370-4bf4-b199-22ebb3b083f5": {
+            "from": "8a4a7de5-4f98-4b04-900a-658b6987a2d5",
+            "layer": 0,
+            "to": "0f70e700-9807-423c-8032-23176c8da77e",
+            "width": 0
+        },
+        "d02c369a-4c7d-4f38-a2f1-a3b98ee8766d": {
+            "from": "971ce83e-cfe7-4e04-8fe9-d332923515d7",
+            "layer": 0,
+            "to": "8a4a7de5-4f98-4b04-900a-658b6987a2d5",
+            "width": 0
+        }
+    },
+    "name": "Solder Pad",
+    "pins": {
+        "ad3f20fe-d1ca-40c1-9148-71c107694c90": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": false,
+            "orientation": "right",
+            "pad_visible": false,
+            "position": [
+                2500000,
+                0
+            ]
+        }
+    },
+    "polygons": {},
+    "text_placements": {},
+    "texts": {
+        "5f43fe7a-403b-4897-9918-33a0e8240967": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -1625000,
+                    -3125000
+                ]
+            },
+            "size": 1500000,
+            "text": "$VALUE",
+            "width": 0
+        },
+        "faa2358a-70a9-45af-a762-62712c1dd535": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -1625000,
+                    3125000
+                ]
+            },
+            "size": 1500000,
+            "text": "$REFDES",
+            "width": 0
+        }
+    },
+    "type": "symbol",
+    "unit": "b4d2282e-7d58-4a2a-9deb-c993b09dfcd2",
+    "uuid": "322697b5-8e04-46d4-b533-5d676b71a524"
+}
