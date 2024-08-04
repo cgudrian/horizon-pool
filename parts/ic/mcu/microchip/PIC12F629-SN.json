@@ -19,6 +19,9 @@
         "Microchip"
     ],
     "model": "b99785a3-c0da-4658-969d-6287cec3be05",
+    "orderable_MPNs": {
+        "7ca38ba2-9983-4868-9a16-92f06610f7d7": "579-PIC12F629-I/SN"
+    },
     "package": "0932e22e-0cf7-46dc-b09c-4cc761a67608",
     "pad_map": {
         "17341892-a120-44e2-97ea-6e4f8e3d7da5": {

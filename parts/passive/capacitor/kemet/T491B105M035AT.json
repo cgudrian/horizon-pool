@@ -1,7 +1,7 @@
 {
     "MPN": [
         false,
-        "T491B105M035AT"
+        "T491B105M035"
     ],
     "base": "1426ab0b-7d51-45ef-9038-6ecdf02859f7",
     "datasheet": [
@@ -20,7 +20,7 @@
     ],
     "model": "7152a7ee-6ae4-45ab-ab82-289beb3a2d38",
     "orderable_MPNs": {
-        "9f9209ae-703c-4ead-9f9f-d585f94bbe32": "80-T491B105M035AT"
+        "9f9209ae-703c-4ead-9f9f-d585f94bbe32": "80-T491B105M035"
     },
     "parametric": {
         "table": "capacitors",
@@ -34,6 +34,6 @@
     "uuid": "4a2e847b-e016-439c-96ff-ca2d594cfe6f",
     "value": [
         false,
-        "1µ/35V"
+        "1 µF / 35V"
     ]
 }

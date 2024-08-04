@@ -19,6 +19,9 @@
         "Texas Instruments"
     ],
     "model": "b99785a3-c0da-4658-969d-6287cec3be05",
+    "orderable_MPNs": {
+        "e538c46b-ae21-4cff-8907-d2b28a524766": "595-UA78L05ACD"
+    },
     "package": "0932e22e-0cf7-46dc-b09c-4cc761a67608",
     "pad_map": {
         "17341892-a120-44e2-97ea-6e4f8e3d7da5": {

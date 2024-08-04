@@ -1,41 +1,44 @@
 {
     "MPN": [
         false,
-        "HDBLS103G"
+        "DF02S-E3/45"
     ],
     "datasheet": [
         false,
-        ""
+        "https://www.mouser.de/datasheet/2/68/CSEMS03607_1-2539167.pdf"
     ],
     "description": [
         false,
-        "Glass Passivated High Efficient Bridge Rectifier 200V 1A"
+        "Miniature Glass Passivated Single-Phase Surface-Mount Bridge Rectifiers"
     ],
     "entity": "1ecbdf6f-b051-4c5a-b6a0-514a5d0b0202",
     "inherit_model": true,
     "inherit_tags": false,
     "manufacturer": [
         false,
-        "Taiwan Semiconductor"
+        "Vishay"
     ],
-    "model": "4e47280d-8b6a-481d-ac23-74702e9cfbbf",
-    "package": "8b7a6fe9-3f24-43ad-813b-9cc7ff62f064",
+    "model": "5338b063-838d-4f23-bcf9-d77bbde2b92d",
+    "orderable_MPNs": {
+        "840556ec-ca6c-43be-a8f5-b1304bb07c92": "625-DF02S-E3"
+    },
+    "package": "fc88fb8d-183e-459d-87db-54865c0ecb09",
     "pad_map": {
-        "088b40eb-de2c-4478-9b29-a6fb67354427": {
-            "gate": "628d2954-1807-45e6-a521-7d33bda8af06",
-            "pin": "70728dd7-50d3-4ed2-b00e-b8adc3f9d09e"
-        },
-        "59c739be-e880-4e5d-8dae-80bc3beb6415": {
+        "073ce0c6-63dc-4ea3-a52a-c8957a927fa2": {
             "gate": "628d2954-1807-45e6-a521-7d33bda8af06",
             "pin": "1d3eb94b-f629-4c88-92a2-69c030563e7d"
         },
-        "8c5e18af-d92b-482a-a70f-8b97eaeb35ef": {
-            "gate": "628d2954-1807-45e6-a521-7d33bda8af06",
-            "pin": "d7919865-a58b-4a50-8db4-0560d5280ea8"
-        },
-        "a273b49b-8f8d-4da1-89e2-11b009ce15b9": {
+        "15cf16b1-024f-4de4-9575-0018c1786b5e": {
             "gate": "628d2954-1807-45e6-a521-7d33bda8af06",
             "pin": "7e154de2-0147-4b7d-8d68-dbd4405e40fd"
+        },
+        "aed02ec2-53d1-4de3-9061-6c8333584517": {
+            "gate": "628d2954-1807-45e6-a521-7d33bda8af06",
+            "pin": "70728dd7-50d3-4ed2-b00e-b8adc3f9d09e"
+        },
+        "d15292e5-547b-4d2e-b218-6f510b7ec8fb": {
+            "gate": "628d2954-1807-45e6-a521-7d33bda8af06",
+            "pin": "d7919865-a58b-4a50-8db4-0560d5280ea8"
         }
     },
     "parametric": {},

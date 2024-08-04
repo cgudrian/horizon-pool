@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "81554568-3ce7-4dd5-889f-c78328e11408": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "44799846-6d8c-48bd-a419-e867d17b7d7f"
+        }
+    },
+    "manufacturer": "",
+    "name": "PIC Programmer",
+    "prefix": "X",
+    "tags": [
+        "connector",
+        "pic"
+    ],
+    "type": "entity",
+    "uuid": "52c8e47b-38b5-4505-b0eb-3603ecefab17"
+}

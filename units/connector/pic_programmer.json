@@ -1,0 +1,38 @@
+{
+    "manufacturer": "",
+    "name": "PIC Programmer",
+    "pins": {
+        "15b2c48c-b0c6-4f1a-bc2e-e39a59884ee9": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "CLK",
+            "swap_group": 0
+        },
+        "5f8ad627-e783-409b-9965-11af2ba644f3": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "7b199352-adf5-4a5e-81a9-5b1e29616484": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "DATA",
+            "swap_group": 0
+        },
+        "e585e50b-f3fb-4e10-88f2-8534dcc2fd07": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "Vcc",
+            "swap_group": 0
+        },
+        "fb1311a8-c66b-460c-a103-d623d6708682": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "Vpp",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "44799846-6d8c-48bd-a419-e867d17b7d7f"
+}

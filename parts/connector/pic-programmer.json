@@ -1,0 +1,56 @@
+{
+    "MPN": [
+        false,
+        "PIC Programmer"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "entity": "52c8e47b-38b5-4505-b0eb-3603ecefab17",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "84ec8229-d872-42f8-bfcc-96938ff02bd1",
+    "orderable_MPNs": {
+        "e5a51c91-7f87-48f6-8690-88c5092c8aa0": "649-1012938190603BLF"
+    },
+    "package": "051a9d1b-fe19-4962-b768-0db2a4dc1225",
+    "pad_map": {
+        "37ad2e38-76ac-4a0b-adf3-2500e30336a0": {
+            "gate": "81554568-3ce7-4dd5-889f-c78328e11408",
+            "pin": "15b2c48c-b0c6-4f1a-bc2e-e39a59884ee9"
+        },
+        "7bc2147a-0234-41f6-ab65-444e57a43ce5": {
+            "gate": "81554568-3ce7-4dd5-889f-c78328e11408",
+            "pin": "5f8ad627-e783-409b-9965-11af2ba644f3"
+        },
+        "7de8ad61-d839-4bad-85e8-5b3d093d4d6c": {
+            "gate": "81554568-3ce7-4dd5-889f-c78328e11408",
+            "pin": "e585e50b-f3fb-4e10-88f2-8534dcc2fd07"
+        },
+        "f4f2991b-d46c-492e-b2b6-beacc3120e00": {
+            "gate": "81554568-3ce7-4dd5-889f-c78328e11408",
+            "pin": "fb1311a8-c66b-460c-a103-d623d6708682"
+        },
+        "f5ac41ed-7d82-44b2-8d6b-a60285ac3e7b": {
+            "gate": "81554568-3ce7-4dd5-889f-c78328e11408",
+            "pin": "7b199352-adf5-4a5e-81a9-5b1e29616484"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "bc3461b6-50b8-4cd9-b77e-e698480b53ab",
+    "value": [
+        false,
+        ""
+    ]
+}
