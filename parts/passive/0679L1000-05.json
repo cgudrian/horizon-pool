@@ -1,0 +1,46 @@
+{
+    "MPN": [
+        false,
+        "0679L1000-05"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.de/datasheet/2/643/ds_cp_0679l_series-1291227.pdf"
+    ],
+    "description": [
+        false,
+        "Fuse 1A/125V"
+    ],
+    "entity": "9c8a3c80-4380-4a27-812d-0091453858c8",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Bel Fuse"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "a1ac55a5-7413-4a0a-b34c-3b752d6421ba": "530-0679L1000-05"
+    },
+    "package": "f0d03b6f-0c26-4cff-8467-64666102f777",
+    "pad_map": {
+        "24d69f57-999e-4b1f-b21b-f62a8a537453": {
+            "gate": "2d506fb9-7efb-4f40-bf74-a438d9f1d5fd",
+            "pin": "df0900ed-f3c8-4296-a321-aa5c2257ce74"
+        },
+        "e2fd62e7-8dbb-404e-a6aa-f059a3e8aafd": {
+            "gate": "2d506fb9-7efb-4f40-bf74-a438d9f1d5fd",
+            "pin": "1a542ef8-6259-4b4e-a4a9-3a8af6039ed0"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "fuse"
+    ],
+    "type": "part",
+    "uuid": "6be9775d-2ad2-417d-b015-fd79b64840f7",
+    "value": [
+        false,
+        ""
+    ]
+}

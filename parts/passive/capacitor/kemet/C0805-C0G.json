@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "C0805x-C0G"
+    ],
+    "base": "2f50150e-b407-4eda-899c-4a8339af9433",
+    "datasheet": [
+        false,
+        "https://www.mouser.de/datasheet/2/447/KEM_C1003_C0G_SMD-3316496.pdf"
+    ],
+    "description": [
+        false,
+        "SMD MLCC, C0G Dielectric, 10 – 250 VDC"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "KEMET"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "08c41828-04b5-4fa3-a8ec-e4f2466db59b",
+    "value": [
+        false,
+        ""
+    ]
+}

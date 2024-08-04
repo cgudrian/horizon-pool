@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "C1206x-X7R"
+    ],
+    "base": "7537f389-14a5-43a6-9b2a-100266cd51d8",
+    "datasheet": [
+        false,
+        "https://www.mouser.de/datasheet/2/447/KEM_C1002_X7R_SMD-3316098.pdf"
+    ],
+    "description": [
+        false,
+        "SMD MLCC, X7R Dielectric, 6.3 – 250 VDC"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "KEMET"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "4aae9f6a-8fa2-4601-9ba5-066e6eefb039",
+    "value": [
+        false,
+        ""
+    ]
+}

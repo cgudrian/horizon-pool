@@ -1,0 +1,39 @@
+{
+    "MPN": [
+        false,
+        "C0805C470K5GACTU"
+    ],
+    "base": "08c41828-04b5-4fa3-a8ec-e4f2466db59b",
+    "datasheet": [
+        true,
+        "https://www.mouser.de/datasheet/2/447/KEM_C1003_C0G_SMD-3316496.pdf"
+    ],
+    "description": [
+        true,
+        "SMD MLCC, C0G Dielectric, 10 – 250 VDC"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "KEMET"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "48f3e805-336e-470e-a7ca-90b472cdf15b": "80-C0805C470K5G"
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "10",
+        "type": "C0G/NP0",
+        "value": "4.7e-11",
+        "wvdc": "50"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "ef4d3ebf-17d4-4e1e-b5ea-73372f8b5a5b",
+    "value": [
+        false,
+        "47pF"
+    ]
+}

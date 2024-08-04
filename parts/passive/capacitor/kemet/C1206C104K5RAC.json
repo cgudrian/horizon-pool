@@ -1,0 +1,39 @@
+{
+    "MPN": [
+        false,
+        "C1206C104K5RAC"
+    ],
+    "base": "4aae9f6a-8fa2-4601-9ba5-066e6eefb039",
+    "datasheet": [
+        true,
+        "https://www.mouser.de/datasheet/2/447/KEM_C1002_X7R_SMD-3316098.pdf"
+    ],
+    "description": [
+        true,
+        "SMD MLCC, X7R Dielectric, 6.3–250 VDC"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "KEMET"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "22f1e80d-709f-489b-b986-a6d95b51deb2": "80-C1206C104K5RAC"
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "10",
+        "type": "X7R",
+        "value": "1e-07",
+        "wvdc": "50"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "e423b9d8-bb9f-44cb-945c-7950dc6eb880",
+    "value": [
+        false,
+        "100nF"
+    ]
+}

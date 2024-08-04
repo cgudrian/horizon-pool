@@ -1,0 +1,40 @@
+{
+    "MPN": [
+        false,
+        "Solder Pad"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "entity": "267343bf-e6bf-42f4-b256-381dd96f011d",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "override_prefix": "yes",
+    "package": "db5fa87f-c684-444d-916e-ae91b460ae31",
+    "pad_map": {
+        "76a60fa1-8062-4454-8daa-31cbab0168d3": {
+            "gate": "26c95be6-8813-4f4b-a0e6-574ae9a6ae48",
+            "pin": "ad3f20fe-d1ca-40c1-9148-71c107694c90"
+        }
+    },
+    "parametric": {},
+    "prefix": "X",
+    "tags": [],
+    "type": "part",
+    "uuid": "6c265649-1733-4b48-b3ed-b355ae978dee",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 2
+}
