@@ -15,7 +15,7 @@
             "width": 150000
         }
     },
-    "default_model": "00000000-0000-0000-0000-000000000000",
+    "default_model": "a56f5729-acc6-4e78-8f69-0b3df865d100",
     "dimensions": {},
     "grid_settings": {
         "current": {
@@ -40,34 +40,58 @@
                 -100000
             ]
         },
-        "1c43f9ac-4b0a-4fbb-8a5e-1fff22d66d1d": {
+        "5cbba00a-346c-4683-8134-2c5c6569dc46": {
             "position": [
-                -2600000,
-                3000000
+                3275000,
+                -1074999
             ]
         },
-        "1ca48e22-877a-46f7-ac46-8b0ada8d0225": {
+        "699cce11-fe6c-407f-ba38-f5333240a13f": {
             "position": [
-                -2600000,
-                -3000000
+                -3275000,
+                -1074999
             ]
         },
-        "42847ebf-559b-4d52-936d-43424d95c620": {
+        "7c32f0c6-8546-421a-ab5f-5687b4b47169": {
             "position": [
-                2600000,
-                3000000
+                -2764229,
+                3275000
             ]
         },
-        "5e52fc93-d779-4f51-9b18-a0d3767734ec": {
+        "8d591ffd-7781-4859-bbe7-14bb4d53164c": {
             "position": [
-                2600000,
-                -3000000
+                -3275000,
+                1074999
+            ]
+        },
+        "8e3bb6a7-121c-4b3b-bb79-0d4623693ec7": {
+            "position": [
+                -2764229,
+                -3275000
             ]
         },
         "9e0b5433-4f94-4302-a320-3b5d0993a9a1": {
             "position": [
                 0,
                 0
+            ]
+        },
+        "a002d0c7-db71-4a0e-8c7c-8d1ed5c3e29a": {
+            "position": [
+                3275000,
+                1074999
+            ]
+        },
+        "c0d41f2f-1b70-4e01-9784-51d26670b362": {
+            "position": [
+                2764229,
+                3275000
+            ]
+        },
+        "cc164037-da56-484f-889a-404bdd8146bc": {
+            "position": [
+                2764229,
+                -3275000
             ]
         },
         "ff27f515-edd0-4e8a-b364-96182f978cdc": {
@@ -79,34 +103,44 @@
     },
     "keepouts": {},
     "lines": {
-        "11adfa80-8045-4438-97e7-7dd3844772d3": {
-            "from": "5e52fc93-d779-4f51-9b18-a0d3767734ec",
+        "2956a196-2776-41bf-add7-94888d5664e2": {
+            "from": "8d591ffd-7781-4859-bbe7-14bb4d53164c",
             "layer": 20,
-            "to": "1ca48e22-877a-46f7-ac46-8b0ada8d0225",
+            "to": "699cce11-fe6c-407f-ba38-f5333240a13f",
             "width": 150000
         },
-        "4830e324-6955-4e7f-bfad-59cbb1f39bd4": {
-            "from": "1ca48e22-877a-46f7-ac46-8b0ada8d0225",
+        "97865449-ad8a-42ca-8efe-f0dc88c119e9": {
+            "from": "8e3bb6a7-121c-4b3b-bb79-0d4623693ec7",
             "layer": 20,
-            "to": "1c43f9ac-4b0a-4fbb-8a5e-1fff22d66d1d",
+            "to": "cc164037-da56-484f-889a-404bdd8146bc",
             "width": 150000
         },
-        "a8c71724-fcbf-4f28-b63f-bc943a50e519": {
-            "from": "42847ebf-559b-4d52-936d-43424d95c620",
+        "bb5b27f4-5826-44fd-9f82-ffe77da3a583": {
+            "from": "5cbba00a-346c-4683-8134-2c5c6569dc46",
             "layer": 20,
-            "to": "5e52fc93-d779-4f51-9b18-a0d3767734ec",
+            "to": "a002d0c7-db71-4a0e-8c7c-8d1ed5c3e29a",
             "width": 150000
         },
-        "c7abe92b-8ca6-4d1f-b034-0c48383fdff8": {
-            "from": "1c43f9ac-4b0a-4fbb-8a5e-1fff22d66d1d",
+        "d9b08f02-5d34-45f9-ba24-b302c715dba0": {
+            "from": "c0d41f2f-1b70-4e01-9784-51d26670b362",
             "layer": 20,
-            "to": "42847ebf-559b-4d52-936d-43424d95c620",
+            "to": "7c32f0c6-8546-421a-ab5f-5687b4b47169",
             "width": 150000
         }
     },
     "manufacturer": "",
-    "models": {},
-    "name": "Switch",
+    "models": {
+        "a56f5729-acc6-4e78-8f69-0b3df865d100": {
+            "filename": "3d_models/mechanical/switch/SW_SPST_PTS645.step",
+            "pitch": 0,
+            "roll": 0,
+            "x": 0,
+            "y": 0,
+            "yaw": 0,
+            "z": 0
+        }
+    },
+    "name": "Switch 6x6",
     "pads": {
         "60426c36-3d22-4b5b-9737-db19a8480d45": {
             "name": "2",
@@ -235,6 +269,60 @@
                     "type": "line"
                 }
             ]
+        },
+        "8877e644-de57-4a7b-93ab-1188a082ea9a": {
+            "layer": 40,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -3000000,
+                        -3000000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -3000000,
+                        3000000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        3000000,
+                        3000000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        3000000,
+                        -3000000
+                    ],
+                    "type": "line"
+                }
+            ]
         }
     },
     "rules": {
@@ -260,8 +348,8 @@
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    -2500000,
-                    4100000
+                    -2700000,
+                    4300000
                 ]
             },
             "size": 1000000,

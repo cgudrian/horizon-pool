@@ -18,7 +18,10 @@
         false,
         ""
     ],
-    "model": "00000000-0000-0000-0000-000000000000",
+    "model": "a56f5729-acc6-4e78-8f69-0b3df865d100",
+    "orderable_MPNs": {
+        "b3c836ce-5d8a-4c17-8ac2-dd9240fbbb38": "TASTER 9313"
+    },
     "package": "8eea67fa-4c4f-47e7-b616-0fb8e6783d12",
     "pad_map": {
         "60426c36-3d22-4b5b-9737-db19a8480d45": {
@@ -40,6 +43,9 @@
     },
     "parametric": {},
     "tags": [
+        "button",
+        "momentary",
+        "spst",
         "switch"
     ],
     "type": "part",

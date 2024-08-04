@@ -1,0 +1,39 @@
+{
+    "MPN": [
+        false,
+        "T491C106M035AT7280"
+    ],
+    "base": "fe2ee48d-fb34-44b0-aa6f-a3a2fa163eb2",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        true,
+        ""
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "KEMET"
+    ],
+    "model": "66ee566b-cf99-4f9c-b83b-d7e0fbd25b19",
+    "orderable_MPNs": {
+        "a5330d70-78b5-44a5-835b-14704b2a4733": "80-T491C106M035AT7280"
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "20",
+        "type": "Electrolytic",
+        "value": "1e-05",
+        "wvdc": "35"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "23cf8229-21e3-4cf9-ad89-f34565dad8cd",
+    "value": [
+        false,
+        "10µ/35V"
+    ]
+}
