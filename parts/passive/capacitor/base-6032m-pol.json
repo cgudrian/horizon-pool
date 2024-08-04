@@ -1,0 +1,44 @@
+{
+    "MPN": [
+        false,
+        "base 6032m polarized capacitor"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "entity": "b0c2b8f8-aecf-4873-9458-c06eee2f7a00",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "66ee566b-cf99-4f9c-b83b-d7e0fbd25b19",
+    "package": "b21d2ac7-590f-4587-b731-dc010a78d496",
+    "pad_map": {
+        "93f3dd32-40ff-4e75-9de6-a3a10bac0e3e": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "1e7cd34f-86db-4b34-9e0b-c276756301ab"
+        },
+        "f6aea972-8e29-4fb3-bbe8-2b2db2244025": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "bb8460b5-34e6-41b0-9a9f-10eed3a3d8d6"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "capacitor",
+        "passive"
+    ],
+    "type": "part",
+    "uuid": "698a1e78-d8d8-4edf-9b14-38d8c2537cb1",
+    "value": [
+        false,
+        ""
+    ]
+}

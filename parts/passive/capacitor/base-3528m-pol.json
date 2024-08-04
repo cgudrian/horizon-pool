@@ -1,7 +1,7 @@
 {
     "MPN": [
         false,
-        "base 2413 polarized capacitor"
+        "base 3528m polarized capacitor"
     ],
     "datasheet": [
         false,
@@ -18,16 +18,16 @@
         false,
         ""
     ],
-    "model": "66ee566b-cf99-4f9c-b83b-d7e0fbd25b19",
-    "package": "b21d2ac7-590f-4587-b731-dc010a78d496",
+    "model": "7152a7ee-6ae4-45ab-ab82-289beb3a2d38",
+    "package": "721fca38-9485-4320-98ca-18859a640188",
     "pad_map": {
-        "93f3dd32-40ff-4e75-9de6-a3a10bac0e3e": {
-            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
-            "pin": "1e7cd34f-86db-4b34-9e0b-c276756301ab"
-        },
-        "f6aea972-8e29-4fb3-bbe8-2b2db2244025": {
+        "17bc3aed-876b-4c54-b66b-baf5e1b16061": {
             "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
             "pin": "bb8460b5-34e6-41b0-9a9f-10eed3a3d8d6"
+        },
+        "1eba993e-b81a-48f2-a3b1-13e5e5c6b885": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "1e7cd34f-86db-4b34-9e0b-c276756301ab"
         }
     },
     "parametric": {},
@@ -36,7 +36,7 @@
         "passive"
     ],
     "type": "part",
-    "uuid": "698a1e78-d8d8-4edf-9b14-38d8c2537cb1",
+    "uuid": "0e90f24a-4bfc-40bf-b6f8-649f4ba2d728",
     "value": [
         false,
         ""

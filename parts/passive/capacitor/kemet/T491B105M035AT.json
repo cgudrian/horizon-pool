@@ -1,12 +1,12 @@
 {
     "MPN": [
         false,
-        "T491C106M035AT"
+        "T491B105M035AT"
     ],
-    "base": "fe2ee48d-fb34-44b0-aa6f-a3a2fa163eb2",
+    "base": "1426ab0b-7d51-45ef-9038-6ecdf02859f7",
     "datasheet": [
         true,
-        ""
+        "https://www.mouser.de/datasheet/2/447/KEM_T2005_T491-3316937.pdf"
     ],
     "description": [
         true,
@@ -18,22 +18,22 @@
         true,
         "KEMET"
     ],
-    "model": "66ee566b-cf99-4f9c-b83b-d7e0fbd25b19",
+    "model": "7152a7ee-6ae4-45ab-ab82-289beb3a2d38",
     "orderable_MPNs": {
-        "e8afcb67-dddd-4475-9570-dee47c6b280d": "80-T491C106M035AT"
+        "9f9209ae-703c-4ead-9f9f-d585f94bbe32": "80-T491B105M035AT"
     },
     "parametric": {
         "table": "capacitors",
-        "tolerance": "20",
+        "tolerance": "205",
         "type": "Electrolytic",
-        "value": "1e-05",
+        "value": "1e-06",
         "wvdc": "35"
     },
     "tags": [],
     "type": "part",
-    "uuid": "23cf8229-21e3-4cf9-ad89-f34565dad8cd",
+    "uuid": "4a2e847b-e016-439c-96ff-ca2d594cfe6f",
     "value": [
         false,
-        "10µ/35V"
+        "1µ/35V"
     ]
 }

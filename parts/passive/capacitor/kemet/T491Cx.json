@@ -1,0 +1,33 @@
+{
+    "MPN": [
+        false,
+        "T491Cx"
+    ],
+    "base": "698a1e78-d8d8-4edf-9b14-38d8c2537cb1",
+    "datasheet": [
+        false,
+        "https://www.mouser.de/datasheet/2/447/KEM_T2005_T491-3316937.pdf"
+    ],
+    "description": [
+        true,
+        ""
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "KEMET"
+    ],
+    "model": "66ee566b-cf99-4f9c-b83b-d7e0fbd25b19",
+    "parametric": {},
+    "tags": [
+        "polarized",
+        "tantal"
+    ],
+    "type": "part",
+    "uuid": "fe2ee48d-fb34-44b0-aa6f-a3a2fa163eb2",
+    "value": [
+        true,
+        "base 2413 polarized capacitor"
+    ]
+}
